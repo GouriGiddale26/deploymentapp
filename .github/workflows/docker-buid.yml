@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: GouriGiddale26/deploymentapp:latest
+        tags: gourigiddale26/deploymentapp:latest
